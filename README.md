@@ -6,4 +6,4 @@ The structure of the code is shown below. For details, please see the documents 
 
 If you use this code for research purpose, please cite the following paper:
 
-Chenglong Duan, Changhong Yan, Baotian Xu, and Yinkang Zhou. "Crosshole seismic CT data field experiments and interpretation for karst caves in deep foundations." Engineering Geology 228 (2017): 180-196.
+Chenglong Duan, Changhong Yan, Baotian Xu, and Yinkang Zhou. "Crosshole seismic CT data field experiments and interpretation for karst caves in deep foundations." Engineering Geology 228 (2017): 180-196. https://doi.org/10.1016/j.enggeo.2017.08.009
